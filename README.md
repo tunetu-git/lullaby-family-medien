@@ -10,7 +10,10 @@ Gesteuert wird alles aus `lullaby-family-automat` (privat).
 
 ## higgsfield-referenz/
 
-Textfreie Fassungen bereits veröffentlichter Titelbilder (aus
-`lullaby-family-automat/assets/titel/`). Sie dienen als Vorlagen, die
-Higgsfield per direktem Link lädt, um daraus Animationen zu erzeugen.
-Der Instagram-Automat greift nicht auf diesen Ordner zu.
+Vorlagen, die Higgsfield per direktem Link lädt, um daraus Animationen
+zu erzeugen. Der Instagram-Automat greift nicht auf diesen Ordner zu.
+
+- `lullaby-family/`: textfreie Fassungen bereits veröffentlichter
+  Titelbilder (aus `lullaby-family-automat/assets/titel/`)
+- `christmas-family/`: Bühne und Figurenblätter der Plüschband
+  Jingle Fangs (aus `tunetu-automat/marken/christmas_family/band/`)
